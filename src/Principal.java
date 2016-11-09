@@ -1,4 +1,4 @@
-import dia091116.Desafios;
+import dia091116.golos;
 import dia091116.TreinoArrays;
 
 public class Principal {
@@ -14,6 +14,7 @@ public class Principal {
 //		new BalancoGAA();
 //		new TreinoArrays();
 		//new TreinoArrays();
-		new Desafios();
+//		new Desafios();
+		new golos ();
 	}
 }

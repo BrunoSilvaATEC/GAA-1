@@ -37,7 +37,7 @@ public class Desafios {
 		//III
 		//Exercício 3
 	    //O utilizador coloca 3 notas a dois alunos e é feita a media dessas 3 notas. Consoante o resultado da media é comparado, se é maior ou igual a 10, está aprovado menor que 10 esta reprovado 
-			
+
 		int  [][] notas = new int[3] [2];
 		//Pedir as 3 notas do aluno Bruno
 		System.out.println ("Introduza a 1 nota do Bruno:  ");
@@ -55,6 +55,7 @@ public class Desafios {
 		notas[2][1] = (new Scanner(System.in)).nextInt();
 		
 		
+		 
 		int mediaBruno =( notas[0][0]+ notas[1][0]+ notas[2][0])/3;
 		
 			
