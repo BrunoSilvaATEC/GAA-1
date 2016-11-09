@@ -1,6 +1,5 @@
-import dia281016.InputOutputBasico;
-import dia281016.BalancoGAA;
-import dia281016.CalculadoraSimples;
+import dia091116.Desafios;
+import dia091116.TreinoArrays;
 
 public class Principal {
 
@@ -12,6 +11,9 @@ public class Principal {
 //		new ExercicioBalanco();
 //		new InputOutputBasico();
 //		new CalculadoraSimples();
-		new BalancoGAA();
+//		new BalancoGAA();
+//		new TreinoArrays();
+		//new TreinoArrays();
+		new Desafios();
 	}
 }
